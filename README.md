@@ -12,14 +12,10 @@
 
 # Skills:
     
-# _Backend:_
- 
-# PHP (Laravel) :elephant: | PYTHON (Django) :snake: | RUBY  :diamonds: 
+# _Backend:_ PHP (Laravel) :elephant: | PYTHON (Django) :snake: | RUBY  :diamonds: 
 
  
-# _Frontend:_
- 
-# HTML5 | CSS | JAVASCRIPT (Angular) | BOOTSTRAP                    
+# _Frontend:_ HTML5 | CSS | JAVASCRIPT (Angular) | BOOTSTRAP                    
             
 ------------
 
