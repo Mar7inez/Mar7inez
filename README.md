@@ -15,6 +15,7 @@
 # _Backend:_
  
 # PHP (Laravel) :elephant: | PYTHON (Django) :snake: | RUBY  :diamonds: 
+
  
 # _Frontend:_
  
@@ -25,7 +26,7 @@
  Projects: (Proximamente)
 
   ------------
-# Conctact:
+# Contact:
 
 📧 mjmfullstacks@gmail.com 
   <br/>
