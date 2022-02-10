@@ -1,16 +1,38 @@
-### Hi there 👋
+![](https://github.com/hebertdev1/hebertdev1/blob/master/javascript.gif)
+#  Hola, Soy Marcelo Martinez! 👋👋
 
-<!--
-**Mar7inez/Mar7inez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Acerca de mí 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Desarrollador Full Stack. Actualmente trabajo jornada parcial como desarrollador web en una Pyme de Neuquén capital.
+
+
+------------
+
+
+# SKILLS:
+    
+ _Backend:_
+ 
+ PHP (Laravel) :elephant: | PYTHON (Django) :snake: | RUBY  :diamonds: 
+ 
+ _Frontend:_
+ 
+ HTML5 | CSS | JAVASCRIPT (Angular) | BOOTSTRAP                    
+            
+------------
+
+# PROYECTOS: (Proximamente)
+
+  ------------
+## CONTACTO:
+
+📧 mjmserviciostecnicos@gmail.com
+  <br/>
+📞 299 5779458
+  <br/>
+💎 https://www.linkedin.com/in/marcelo-martinez-/
+  
+  ## Curriculum Vitae : 
+  
+  https://drive.google.com/file/d/1-HPiRzoPfgDCJVm-aPhvS2dtyCqYD-c4/view
