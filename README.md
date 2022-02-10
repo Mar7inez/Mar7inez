@@ -2,9 +2,9 @@
 #  Hola, Soy Marcelo Martinez! 👋👋
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+Full+Stack+Web+Developer)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
-### Actualmente trabajo jornada parcial como desarrollador web en una Pyme de Neuquén capital. Y me encuentro estudiando nuevas tecnologias ademas de trabajar en proyectos freelance
+## Actualmente trabajo jornada parcial como desarrollador web en una Pyme de Neuquén capital. Y me encuentro estudiando nuevas tecnologias ademas de trabajar en proyectos freelance
 
 
 ------------
