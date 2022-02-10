@@ -4,7 +4,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
-## Actualmente trabajo jornada parcial como desarrollador web en una Pyme de Neuquén capital. Y me encuentro estudiando nuevas tecnologias ademas de trabajar en proyectos freelance
+# Actualmente trabajo jornada parcial como desarrollador web en una Pyme de Neuquén capital. Y me encuentro estudiando nuevas tecnologias ademas de trabajar en proyectos freelance
 
 
 ------------
@@ -22,10 +22,10 @@
             
 ------------
 
-# PROYECTOS: (Proximamente)
+ PROYECTOS: (Proximamente)
 
   ------------
-## CONTACTO:
+# CONTACTO:
 
 📧 mjmfullstacks@gmail.com 
   <br/>
@@ -33,6 +33,6 @@
 <br/>
 📞 299 5779458
   
-  ## Curriculum Vitae : 
+  # Curriculum Vitae : 
   
   https://drive.google.com/file/d/1-HPiRzoPfgDCJVm-aPhvS2dtyCqYD-c4/view
