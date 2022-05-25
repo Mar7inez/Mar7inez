@@ -24,7 +24,7 @@
   ------------
 # Contact:
 
-📧 mjmfullstacks@gmail.com 
+📧 mjmfullstack@gmail.com 
   <br/>
 💎 https://www.linkedin.com/in/marcelo-martinez-/
 <br/>
