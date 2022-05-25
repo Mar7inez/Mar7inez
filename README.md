@@ -15,7 +15,7 @@
 # _Backend:_ PHP :elephant: | PYTHON (Django) :snake: |  
 
  
-# _Frontend:_ HTML5 | CSS | JAVASCRIPT (Angular) | BOOTSTRAP                    
+# _Frontend:_ HTML5 | CSS | JAVASCRIPT (Angular) |                 
             
 ------------
 
