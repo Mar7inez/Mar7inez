@@ -28,7 +28,7 @@
   <br/>
 💎 https://www.linkedin.com/in/marcelo-martinez-/
 <br/>
-📞 299 5779458
+
   
   # Resume: 
   
