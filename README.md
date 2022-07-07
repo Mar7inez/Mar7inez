@@ -12,7 +12,7 @@
 
 # Skills:
     
-# JAVA (Springboot) :coffe: | PYTHON (Django) :snake: |  _Backend:_ PHP :elephant:
+# JAVA (Springboot) :coffee: | PYTHON (Django) :snake: |  _Backend:_ PHP :elephant:
 
  
 # _Frontend:_ HTML5 | CSS | JAVASCRIPT (Angular) |                 
