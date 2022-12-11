@@ -4,7 +4,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+Java+Developer)](https://git.io/typing-svg)
 
- I currently work full-time as a web developer in an software factory to Argentina. At the moment, I'm studying new technologies in addition to working on freelance projects.
+ I currently work full-time as a web developer in an Argentinean software company. At the moment, I'm studying new technologies in addition to working on freelance projects.
 
 
 ------------
