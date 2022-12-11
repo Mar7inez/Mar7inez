@@ -15,7 +15,9 @@
 # _Backend:_ JAVA (Springboot) :coffee: ||
 
  
-# _Frontend:_ HTML5 | CSS | JAVASCRIPT (Angular) ||               
+# _Frontend:_ HTML5 | CSS | JAVASCRIPT (Angular) ||
+
+# _Extra:_ Jira | Git | Linux ||               
             
 ------------
 
