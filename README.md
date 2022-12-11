@@ -2,7 +2,7 @@
 #  Hi, I'm Marcelo Martinez! 👋👋
 
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+Full+Stack+Web+Developer)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+Java+Developer)](https://git.io/typing-svg)
 
  I currently work part-time as a web developer in an SME in Neuquén capital. At the moment, I'm studying new technologies in addition to working on freelance projects.
 
