@@ -40,7 +40,7 @@
         <img src="https://github.com/Mar7inez/Mar7inez/assets/89807910/b9ad9487-1ab8-43ce-9290-18582ea369d3" title="Mail" alt="Mail" width="40" height="40">
         </a>        
  <h2>Download my Resume</h2>
-        <a href="https://drive.google.com/file/d/1EFYNMVsTHtKHBTD_Je2NRCVlOK7QMu_V/view?usp=sharing" target="_blank" download="CV-Martinez.pdf">
+        <a href="https://drive.google.com/file/d/1EFYNMVsTHtKHBTD_Je2NRCVlOK7QMu_V/view?usp=sharing" target="_blank">
         <img src="https://github.com/Mar7inez/Mar7inez/assets/89807910/a5017cef-506b-488b-b7dc-a69a928421ec" title="Drive" alt="Drive" width="40" height="40">
         </a>
 
