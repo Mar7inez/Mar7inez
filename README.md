@@ -48,7 +48,7 @@
 
 ---
 
-<img src="https://github.com/Mar7inez/Mar7inez/assets/89807910/ff649412-22c9-4be1-87fb-5315a2e5d6c1">
+
 
         
 
